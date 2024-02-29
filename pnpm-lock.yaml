@@ -50,7 +50,7 @@ dependencies:
 
 devDependencies:
     "@mercuryworkshop/alicejs":
-        specifier: ^2.2.1
+        specifier: ^2.1.1
         version: 1.2.1
     "@types/node":
         specifier: ^20.5.9
